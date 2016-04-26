@@ -1,0 +1,12 @@
+{
+  "tspdt": {
+    "21cent": "http://theyshootpictures.com/21stcentury_allfilms_table.php",
+    "alltime": "http://theyshootpictures.com/gf1000_all1000films_table.php",
+    "noir": ""
+  },
+  "api": {
+    "imdb": {
+      "baseUrl": "http://www.omdbapi.com"
+    }
+  }
+}

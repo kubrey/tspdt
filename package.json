@@ -1,0 +1,28 @@
+{
+  "name": "tspdt",
+  "version": "1.0.0",
+  "description": "TSPDT movies with imdb marks",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubrey/tspdt.git"
+  },
+  "keywords": [
+    "tspdt",
+    "movies",
+    "imdb"
+  ],
+  "author": "Sergey Kubrey <kubrey@yandex.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubrey/tspdt/issues"
+  },
+  "homepage": "https://github.com/kubrey/tspdt#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  }
+}
