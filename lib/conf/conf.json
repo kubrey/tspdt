@@ -7,6 +7,9 @@
   "api": {
     "imdb": {
       "baseUrl": "http://www.omdbapi.com"
+    },
+    "kinopoisk": {
+      "baseUrl": "http://api.kinopoisk.cf"
     }
   }
 }
