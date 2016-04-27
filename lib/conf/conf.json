@@ -11,5 +11,15 @@
     "kinopoisk": {
       "baseUrl": "http://api.kinopoisk.cf"
     }
+  },
+  "mongoose": {
+    "uri": "mongodb://localhost/tspdt",
+    "options": {
+      "server": {
+        "socketOptions": {
+          "keepAlive": 1
+        }
+      }
+    }
   }
 }

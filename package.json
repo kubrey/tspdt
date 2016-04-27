@@ -23,6 +23,7 @@
   "homepage": "https://github.com/kubrey/tspdt#readme",
   "dependencies": {
     "cheerio": "^0.20.0",
+    "mongoose": "^4.4.13",
     "request": "^2.72.0"
   }
 }
